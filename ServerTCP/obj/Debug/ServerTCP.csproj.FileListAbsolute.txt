@@ -1,0 +1,6 @@
+C:\Users\Octopus\source\repos\ChatServer\ServerTCP\bin\Debug\ServerTCP.exe.config
+C:\Users\Octopus\source\repos\ChatServer\ServerTCP\bin\Debug\ServerTCP.exe
+C:\Users\Octopus\source\repos\ChatServer\ServerTCP\bin\Debug\ServerTCP.pdb
+C:\Users\Octopus\source\repos\ChatServer\ServerTCP\obj\Debug\ServerTCP.csproj.CoreCompileInputs.cache
+C:\Users\Octopus\source\repos\ChatServer\ServerTCP\obj\Debug\ServerTCP.exe
+C:\Users\Octopus\source\repos\ChatServer\ServerTCP\obj\Debug\ServerTCP.pdb

@@ -1,0 +1,6 @@
+C:\Users\Octopus\source\repos\ClientTCP\ClientTCP\bin\Debug\ClientTCP.exe.config
+C:\Users\Octopus\source\repos\ClientTCP\ClientTCP\bin\Debug\ClientTCP.exe
+C:\Users\Octopus\source\repos\ClientTCP\ClientTCP\bin\Debug\ClientTCP.pdb
+C:\Users\Octopus\source\repos\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.CoreCompileInputs.cache
+C:\Users\Octopus\source\repos\ClientTCP\ClientTCP\obj\Debug\ClientTCP.exe
+C:\Users\Octopus\source\repos\ClientTCP\ClientTCP\obj\Debug\ClientTCP.pdb
